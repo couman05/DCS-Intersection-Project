@@ -1,0 +1,325 @@
+Paused....
+Controller 1 ExecutionList [t4 Temp Marking [r1g2r3r4(signal),in2(Null)]]
+[iniT conditions are false]0[t1 conditions are false]5[t2 conditions are false]5[t3 conditions are false]5[t5 conditions are false]5[t6 conditions are false]5[t7 conditions are false]5[t8 conditions are false]5[t9 conditions are false]1
+Controller 1 ConstantPlaceList [ini(Null)  red(red)  green(green)  yellow(yellow)  Five(5)  Ten(10)]
+Controller 1 PlaceList [r1r2r3r4(Null)  g1r2r3r4(Null)  y1r2r3r4(Null)  r1g2r3r4(Null)  r1y2r3r4(Null)  r1r2g3r4(Null)  r1r2y3r4(Null)  r1r2r3g4(Null)  r1r2r3y4(Null)  OP1(localhost-1080-P_tl1)  OP2(localhost-1080-P_tl2)  OP3(localhost-1080-P_tl3)  OP4(localhost-1080-P_tl4)  in1(Null)  in2(Null)  in3(Null)  in4(Null)]
+Controller 1 ExecutionList [t4 Temp Marking [r1g2r3r4(signal),in2(Null)]]
+[iniT conditions are false]0[t1 conditions are false]5[t2 conditions are false]5[t3 conditions are false]5[t5 conditions are false]5[t6 conditions are false]5[t7 conditions are false]5[t8 conditions are false]5[t9 conditions are false]1
+Controller 1 ConstantPlaceList [ini(Null)  red(red)  green(green)  yellow(yellow)  Five(5)  Ten(10)]
+Controller 1 PlaceList [r1r2r3r4(Null)  g1r2r3r4(Null)  y1r2r3r4(Null)  r1g2r3r4(Null)  r1y2r3r4(Null)  r1r2g3r4(Null)  r1r2y3r4(Null)  r1r2r3g4(Null)  r1r2r3y4(Null)  OP1(localhost-1080-P_tl1)  OP2(localhost-1080-P_tl2)  OP3(localhost-1080-P_tl3)  OP4(localhost-1080-P_tl4)  in1(Null)  in2(Null)  in3(Null)  in4(Null)]
+Controller 1 ExecutionList [t4 Temp Marking [r1g2r3r4(signal),in2(Null)]]
+[iniT conditions are false]0[t1 conditions are false]5[t2 conditions are false]5[t3 conditions are false]5[t5 conditions are false]5[t6 conditions are false]5[t7 conditions are false]5[t8 conditions are false]5[t9 conditions are false]1
+Controller 1 ConstantPlaceList [ini(Null)  red(red)  green(green)  yellow(yellow)  Five(5)  Ten(10)]
+Controller 1 PlaceList [r1r2r3r4(Null)  g1r2r3r4(Null)  y1r2r3r4(Null)  r1g2r3r4(Null)  r1y2r3r4(Null)  r1r2g3r4(Null)  r1r2y3r4(Null)  r1r2r3g4(Null)  r1r2r3y4(Null)  OP1(localhost-1080-P_tl1)  OP2(localhost-1080-P_tl2)  OP3(localhost-1080-P_tl3)  OP4(localhost-1080-P_tl4)  in1(Null)  in2(Null)  in3(Null)  in4(Null)]
+Controller 1 ExecutionList [t4 Temp Marking [r1g2r3r4(signal),in2(Null)]]
+[iniT conditions are false]0[t1 conditions are false]5[t2 conditions are false]5[t3 conditions are false]5[t5 conditions are false]5[t6 conditions are false]5[t7 conditions are false]5[t8 conditions are false]5[t9 conditions are false]1
+Controller 1 ConstantPlaceList [ini(Null)  red(red)  green(green)  yellow(yellow)  Five(5)  Ten(10)]
+Controller 1 PlaceList [r1r2r3r4(Null)  g1r2r3r4(Null)  y1r2r3r4(Null)  r1g2r3r4(Null)  r1y2r3r4(Null)  r1r2g3r4(Null)  r1r2y3r4(Null)  r1r2r3g4(Null)  r1r2r3y4(Null)  OP1(localhost-1080-P_tl1)  OP2(localhost-1080-P_tl2)  OP3(localhost-1080-P_tl3)  OP4(localhost-1080-P_tl4)  in1(Null)  in2(Null)  in3(Null)  in4(Null)]
+Controller 1 ExecutionList [t4 Temp Marking [r1g2r3r4(signal),in2(Null)]]
+[iniT conditions are false]0[t1 conditions are false]5[t2 conditions are false]5[t3 conditions are false]5[t5 conditions are false]5[t6 conditions are false]5[t7 conditions are false]5[t8 conditions are false]5[t9 conditions are false]1
+Controller 1 ConstantPlaceList [ini(Null)  red(red)  green(green)  yellow(yellow)  Five(5)  Ten(10)]
+Controller 1 PlaceList [r1r2r3r4(Null)  g1r2r3r4(Null)  y1r2r3r4(Null)  r1g2r3r4(Null)  r1y2r3r4(Null)  r1r2g3r4(Null)  r1r2y3r4(Null)  r1r2r3g4(Null)  r1r2r3y4(Null)  OP1(localhost-1080-P_tl1)  OP2(localhost-1080-P_tl2)  OP3(localhost-1080-P_tl3)  OP4(localhost-1080-P_tl4)  in1(Null)  in2(Null)  in3(Null)  in4(Null)]
+Controller 1 ExecutionList [t4 Temp Marking [r1g2r3r4(signal),in2(Null)]]
+[iniT conditions are false]0[t1 conditions are false]5[t2 conditions are false]5[t3 conditions are false]5[t5 conditions are false]5[t6 conditions are false]5[t7 conditions are false]5[t8 conditions are false]5[t9 conditions are false]1
+Controller 1 ConstantPlaceList [ini(Null)  red(red)  green(green)  yellow(yellow)  Five(5)  Ten(10)]
+Controller 1 PlaceList [r1r2r3r4(Null)  g1r2r3r4(Null)  y1r2r3r4(Null)  r1g2r3r4(signal)  r1y2r3r4(Null)  r1r2g3r4(Null)  r1r2y3r4(Null)  r1r2r3g4(Null)  r1r2r3y4(Null)  OP1(localhost-1080-P_tl1)  OP2(localhost-1080-P_tl2)  OP3(localhost-1080-P_tl3)  OP4(localhost-1080-P_tl4)  in1(Null)  in2(Null)  in3(Null)  in4(Null)]
+Controller 1 ExecutionList [t3 Temp Marking [y1r2r3r4(signal)]]
+[iniT conditions are false]0[t1 conditions are false]5[t2 conditions are false]5[t4 conditions are false]5[t5 conditions are false]5[t6 conditions are false]5[t7 conditions are false]5[t8 conditions are false]5[t9 conditions are false]1
+Controller 1 ConstantPlaceList [ini(Null)  red(red)  green(green)  yellow(yellow)  Five(5)  Ten(10)]
+Controller 1 PlaceList [r1r2r3r4(Null)  g1r2r3r4(Null)  y1r2r3r4(Null)  r1g2r3r4(Null)  r1y2r3r4(Null)  r1r2g3r4(Null)  r1r2y3r4(Null)  r1r2r3g4(Null)  r1r2r3y4(Null)  OP1(localhost-1080-P_tl1)  OP2(localhost-1080-P_tl2)  OP3(localhost-1080-P_tl3)  OP4(localhost-1080-P_tl4)  in1(Null)  in2(Null)  in3(Null)  in4(Null)]
+Controller 1 ExecutionList [t3 Temp Marking [y1r2r3r4(signal)]]
+[iniT conditions are false]0[t1 conditions are false]5[t2 conditions are false]5[t4 conditions are false]5[t5 conditions are false]5[t6 conditions are false]5[t7 conditions are false]5[t8 conditions are false]5[t9 conditions are false]1
+Controller 1 ConstantPlaceList [ini(Null)  red(red)  green(green)  yellow(yellow)  Five(5)  Ten(10)]
+Controller 1 PlaceList [r1r2r3r4(Null)  g1r2r3r4(Null)  y1r2r3r4(Null)  r1g2r3r4(Null)  r1y2r3r4(Null)  r1r2g3r4(Null)  r1r2y3r4(Null)  r1r2r3g4(Null)  r1r2r3y4(Null)  OP1(localhost-1080-P_tl1)  OP2(localhost-1080-P_tl2)  OP3(localhost-1080-P_tl3)  OP4(localhost-1080-P_tl4)  in1(Null)  in2(Null)  in3(Null)  in4(Null)]
+Controller 1 ExecutionList [t3 Temp Marking [y1r2r3r4(signal)]]
+[iniT conditions are false]0[t1 conditions are false]5[t2 conditions are false]5[t4 conditions are false]5[t5 conditions are false]5[t6 conditions are false]5[t7 conditions are false]5[t8 conditions are false]5[t9 conditions are false]1
+Controller 1 ConstantPlaceList [ini(Null)  red(red)  green(green)  yellow(yellow)  Five(5)  Ten(10)]
+Controller 1 PlaceList [r1r2r3r4(Null)  g1r2r3r4(Null)  y1r2r3r4(Null)  r1g2r3r4(Null)  r1y2r3r4(Null)  r1r2g3r4(Null)  r1r2y3r4(Null)  r1r2r3g4(Null)  r1r2r3y4(Null)  OP1(localhost-1080-P_tl1)  OP2(localhost-1080-P_tl2)  OP3(localhost-1080-P_tl3)  OP4(localhost-1080-P_tl4)  in1(Null)  in2(Null)  in3(Null)  in4(Null)]
+Controller 1 ExecutionList [t3 Temp Marking [y1r2r3r4(signal)]]
+[iniT conditions are false]0[t1 conditions are false]5[t2 conditions are false]5[t4 conditions are false]5[t5 conditions are false]5[t6 conditions are false]5[t7 conditions are false]5[t8 conditions are false]5[t9 conditions are false]1
+Controller 1 ConstantPlaceList [ini(Null)  red(red)  green(green)  yellow(yellow)  Five(5)  Ten(10)]
+Controller 1 PlaceList [r1r2r3r4(Null)  g1r2r3r4(Null)  y1r2r3r4(Null)  r1g2r3r4(Null)  r1y2r3r4(Null)  r1r2g3r4(Null)  r1r2y3r4(Null)  r1r2r3g4(Null)  r1r2r3y4(Null)  OP1(localhost-1080-P_tl1)  OP2(localhost-1080-P_tl2)  OP3(localhost-1080-P_tl3)  OP4(localhost-1080-P_tl4)  in1(Null)  in2(Null)  in3(Null)  in4(Null)]
+Controller 1 ExecutionList [t3 Temp Marking [y1r2r3r4(signal)]]
+[iniT conditions are false]0[t1 conditions are false]5[t2 conditions are false]5[t4 conditions are false]5[t5 conditions are false]5[t6 conditions are false]5[t7 conditions are false]5[t8 conditions are false]5[t9 conditions are false]1
+Controller 1 ConstantPlaceList [ini(Null)  red(red)  green(green)  yellow(yellow)  Five(5)  Ten(10)]
+Controller 1 PlaceList [r1r2r3r4(Null)  g1r2r3r4(Null)  y1r2r3r4(Null)  r1g2r3r4(Null)  r1y2r3r4(Null)  r1r2g3r4(Null)  r1r2y3r4(Null)  r1r2r3g4(Null)  r1r2r3y4(Null)  OP1(localhost-1080-P_tl1)  OP2(localhost-1080-P_tl2)  OP3(localhost-1080-P_tl3)  OP4(localhost-1080-P_tl4)  in1(Null)  in2(Null)  in3(Null)  in4(Null)]
+Controller 1 ExecutionList [t3 Temp Marking [y1r2r3r4(signal)]]
+[iniT conditions are false]0[t1 conditions are false]5[t2 conditions are false]5[t4 conditions are false]5[t5 conditions are false]5[t6 conditions are false]5[t7 conditions are false]5[t8 conditions are false]5[t9 conditions are false]1
+Controller 1 ConstantPlaceList [ini(Null)  red(red)  green(green)  yellow(yellow)  Five(5)  Ten(10)]
+Controller 1 PlaceList [r1r2r3r4(Null)  g1r2r3r4(Null)  y1r2r3r4(signal)  r1g2r3r4(Null)  r1y2r3r4(Null)  r1r2g3r4(Null)  r1r2y3r4(Null)  r1r2r3g4(Null)  r1r2r3y4(Null)  OP1(localhost-1080-P_tl1)  OP2(localhost-1080-P_tl2)  OP3(localhost-1080-P_tl3)  OP4(localhost-1080-P_tl4)  in1(Null)  in2(Null)  in3(Null)  in4(Null)]
+Controller 1 ExecutionList [t2 Temp Marking [g1r2r3r4(signal),in1(Null)]]
+[iniT conditions are false]0[t1 conditions are false]5[t3 conditions are false]5[t4 conditions are false]5[t5 conditions are false]5[t6 conditions are false]5[t7 conditions are false]5[t8 conditions are false]5[t9 conditions are false]1
+Controller 1 ConstantPlaceList [ini(Null)  red(red)  green(green)  yellow(yellow)  Five(5)  Ten(10)]
+Controller 1 PlaceList [r1r2r3r4(Null)  g1r2r3r4(Null)  y1r2r3r4(Null)  r1g2r3r4(Null)  r1y2r3r4(Null)  r1r2g3r4(Null)  r1r2y3r4(Null)  r1r2r3g4(Null)  r1r2r3y4(Null)  OP1(localhost-1080-P_tl1)  OP2(localhost-1080-P_tl2)  OP3(localhost-1080-P_tl3)  OP4(localhost-1080-P_tl4)  in1(Null)  in2(Null)  in3(Null)  in4(Null)]
+Controller 1 ExecutionList [t2 Temp Marking [g1r2r3r4(signal),in1(Null)]]
+[iniT conditions are false]0[t1 conditions are false]5[t3 conditions are false]5[t4 conditions are false]5[t5 conditions are false]5[t6 conditions are false]5[t7 conditions are false]5[t8 conditions are false]5[t9 conditions are false]1
+Controller 1 ConstantPlaceList [ini(Null)  red(red)  green(green)  yellow(yellow)  Five(5)  Ten(10)]
+Controller 1 PlaceList [r1r2r3r4(Null)  g1r2r3r4(Null)  y1r2r3r4(Null)  r1g2r3r4(Null)  r1y2r3r4(Null)  r1r2g3r4(Null)  r1r2y3r4(Null)  r1r2r3g4(Null)  r1r2r3y4(Null)  OP1(localhost-1080-P_tl1)  OP2(localhost-1080-P_tl2)  OP3(localhost-1080-P_tl3)  OP4(localhost-1080-P_tl4)  in1(Null)  in2(Null)  in3(Null)  in4(Null)]
+Controller 1 ExecutionList [t2 Temp Marking [g1r2r3r4(signal),in1(Null)]]
+[iniT conditions are false]0[t1 conditions are false]5[t3 conditions are false]5[t4 conditions are false]5[t5 conditions are false]5[t6 conditions are false]5[t7 conditions are false]5[t8 conditions are false]5[t9 conditions are false]1
+Controller 1 ConstantPlaceList [ini(Null)  red(red)  green(green)  yellow(yellow)  Five(5)  Ten(10)]
+Controller 1 PlaceList [r1r2r3r4(Null)  g1r2r3r4(Null)  y1r2r3r4(Null)  r1g2r3r4(Null)  r1y2r3r4(Null)  r1r2g3r4(Null)  r1r2y3r4(Null)  r1r2r3g4(Null)  r1r2r3y4(Null)  OP1(localhost-1080-P_tl1)  OP2(localhost-1080-P_tl2)  OP3(localhost-1080-P_tl3)  OP4(localhost-1080-P_tl4)  in1(Null)  in2(Null)  in3(Null)  in4(Null)]
+Controller 1 ExecutionList [t2 Temp Marking [g1r2r3r4(signal),in1(Null)]]
+[iniT conditions are false]0[t1 conditions are false]5[t3 conditions are false]5[t4 conditions are false]5[t5 conditions are false]5[t6 conditions are false]5[t7 conditions are false]5[t8 conditions are false]5[t9 conditions are false]1
+Controller 1 ConstantPlaceList [ini(Null)  red(red)  green(green)  yellow(yellow)  Five(5)  Ten(10)]
+Controller 1 PlaceList [r1r2r3r4(Null)  g1r2r3r4(Null)  y1r2r3r4(Null)  r1g2r3r4(Null)  r1y2r3r4(Null)  r1r2g3r4(Null)  r1r2y3r4(Null)  r1r2r3g4(Null)  r1r2r3y4(Null)  OP1(localhost-1080-P_tl1)  OP2(localhost-1080-P_tl2)  OP3(localhost-1080-P_tl3)  OP4(localhost-1080-P_tl4)  in1(Null)  in2(Null)  in3(Null)  in4(Null)]
+Controller 1 ExecutionList [t2 Temp Marking [g1r2r3r4(signal),in1(Null)]]
+[iniT conditions are false]0[t1 conditions are false]5[t3 conditions are false]5[t4 conditions are false]5[t5 conditions are false]5[t6 conditions are false]5[t7 conditions are false]5[t8 conditions are false]5[t9 conditions are false]1
+Controller 1 ConstantPlaceList [ini(Null)  red(red)  green(green)  yellow(yellow)  Five(5)  Ten(10)]
+Controller 1 PlaceList [r1r2r3r4(Null)  g1r2r3r4(Null)  y1r2r3r4(Null)  r1g2r3r4(Null)  r1y2r3r4(Null)  r1r2g3r4(Null)  r1r2y3r4(Null)  r1r2r3g4(Null)  r1r2r3y4(Null)  OP1(localhost-1080-P_tl1)  OP2(localhost-1080-P_tl2)  OP3(localhost-1080-P_tl3)  OP4(localhost-1080-P_tl4)  in1(Null)  in2(Null)  in3(Null)  in4(Null)]
+Controller 1 ExecutionList [t2 Temp Marking [g1r2r3r4(signal),in1(Null)]]
+[iniT conditions are false]0[t1 conditions are false]5[t3 conditions are false]5[t4 conditions are false]5[t5 conditions are false]5[t6 conditions are false]5[t7 conditions are false]5[t8 conditions are false]5[t9 conditions are false]1
+Controller 1 ConstantPlaceList [ini(Null)  red(red)  green(green)  yellow(yellow)  Five(5)  Ten(10)]
+Controller 1 PlaceList [r1r2r3r4(Null)  g1r2r3r4(Null)  y1r2r3r4(Null)  r1g2r3r4(Null)  r1y2r3r4(Null)  r1r2g3r4(Null)  r1r2y3r4(Null)  r1r2r3g4(Null)  r1r2r3y4(Null)  OP1(localhost-1080-P_tl1)  OP2(localhost-1080-P_tl2)  OP3(localhost-1080-P_tl3)  OP4(localhost-1080-P_tl4)  in1(Null)  in2(Null)  in3(Null)  in4(Null)]
+Controller 1 ExecutionList [t2 Temp Marking [g1r2r3r4(signal),in1(Null)]]
+[iniT conditions are false]0[t1 conditions are false]5[t3 conditions are false]5[t4 conditions are false]5[t5 conditions are false]5[t6 conditions are false]5[t7 conditions are false]5[t8 conditions are false]5[t9 conditions are false]1
+Controller 1 ConstantPlaceList [ini(Null)  red(red)  green(green)  yellow(yellow)  Five(5)  Ten(10)]
+Controller 1 PlaceList [r1r2r3r4(Null)  g1r2r3r4(Null)  y1r2r3r4(Null)  r1g2r3r4(Null)  r1y2r3r4(Null)  r1r2g3r4(Null)  r1r2y3r4(Null)  r1r2r3g4(Null)  r1r2r3y4(Null)  OP1(localhost-1080-P_tl1)  OP2(localhost-1080-P_tl2)  OP3(localhost-1080-P_tl3)  OP4(localhost-1080-P_tl4)  in1(Null)  in2(Null)  in3(Null)  in4(Null)]
+Controller 1 ExecutionList [t2 Temp Marking [g1r2r3r4(signal),in1(Null)]]
+[iniT conditions are false]0[t1 conditions are false]5[t3 conditions are false]5[t4 conditions are false]5[t5 conditions are false]5[t6 conditions are false]5[t7 conditions are false]5[t8 conditions are false]5[t9 conditions are false]1
+Controller 1 ConstantPlaceList [ini(Null)  red(red)  green(green)  yellow(yellow)  Five(5)  Ten(10)]
+Controller 1 PlaceList [r1r2r3r4(Null)  g1r2r3r4(Null)  y1r2r3r4(Null)  r1g2r3r4(Null)  r1y2r3r4(Null)  r1r2g3r4(Null)  r1r2y3r4(Null)  r1r2r3g4(Null)  r1r2r3y4(Null)  OP1(localhost-1080-P_tl1)  OP2(localhost-1080-P_tl2)  OP3(localhost-1080-P_tl3)  OP4(localhost-1080-P_tl4)  in1(Null)  in2(Null)  in3(Null)  in4(Null)]
+Controller 1 ExecutionList [t2 Temp Marking [g1r2r3r4(signal),in1(Null)]]
+[iniT conditions are false]0[t1 conditions are false]5[t3 conditions are false]5[t4 conditions are false]5[t5 conditions are false]5[t6 conditions are false]5[t7 conditions are false]5[t8 conditions are false]5[t9 conditions are false]1
+Controller 1 ConstantPlaceList [ini(Null)  red(red)  green(green)  yellow(yellow)  Five(5)  Ten(10)]
+Controller 1 PlaceList [r1r2r3r4(Null)  g1r2r3r4(Null)  y1r2r3r4(Null)  r1g2r3r4(Null)  r1y2r3r4(Null)  r1r2g3r4(Null)  r1r2y3r4(Null)  r1r2r3g4(Null)  r1r2r3y4(Null)  OP1(localhost-1080-P_tl1)  OP2(localhost-1080-P_tl2)  OP3(localhost-1080-P_tl3)  OP4(localhost-1080-P_tl4)  in1(Null)  in2(Null)  in3(Null)  in4(Null)]
+Controller 1 ExecutionList [t2 Temp Marking [g1r2r3r4(signal),in1(Null)]]
+[iniT conditions are false]0[t1 conditions are false]5[t3 conditions are false]5[t4 conditions are false]5[t5 conditions are false]5[t6 conditions are false]5[t7 conditions are false]5[t8 conditions are false]5[t9 conditions are false]1
+Controller 1 ConstantPlaceList [ini(Null)  red(red)  green(green)  yellow(yellow)  Five(5)  Ten(10)]
+Controller 1 PlaceList [r1r2r3r4(Null)  g1r2r3r4(Null)  y1r2r3r4(Null)  r1g2r3r4(Null)  r1y2r3r4(Null)  r1r2g3r4(Null)  r1r2y3r4(Null)  r1r2r3g4(Null)  r1r2r3y4(Null)  OP1(localhost-1080-P_tl1)  OP2(localhost-1080-P_tl2)  OP3(localhost-1080-P_tl3)  OP4(localhost-1080-P_tl4)  in1(Null)  in2(Null)  in3(Null)  in4(Null)]
+Controller 1 ExecutionList [t2 Temp Marking [g1r2r3r4(signal),in1(Null)]]
+[iniT conditions are false]0[t1 conditions are false]5[t3 conditions are false]5[t4 conditions are false]5[t5 conditions are false]5[t6 conditions are false]5[t7 conditions are false]5[t8 conditions are false]5[t9 conditions are false]1
+Controller 1 ConstantPlaceList [ini(Null)  red(red)  green(green)  yellow(yellow)  Five(5)  Ten(10)]
+Controller 1 PlaceList [r1r2r3r4(Null)  g1r2r3r4(signal)  y1r2r3r4(Null)  r1g2r3r4(Null)  r1y2r3r4(Null)  r1r2g3r4(Null)  r1r2y3r4(Null)  r1r2r3g4(Null)  r1r2r3y4(Null)  OP1(localhost-1080-P_tl1)  OP2(localhost-1080-P_tl2)  OP3(localhost-1080-P_tl3)  OP4(localhost-1080-P_tl4)  in1(Null)  in2(Null)  in3(Null)  in4(Null)]
+Controller 1 ExecutionList [t1 Temp Marking [r1r2r3r4(signal)]]
+[iniT conditions are false]0[t2 conditions are false]10[t3 conditions are false]5[t4 conditions are false]5[t5 conditions are false]5[t6 conditions are false]5[t7 conditions are false]5[t8 conditions are false]5[t9 conditions are false]1
+Controller 1 ConstantPlaceList [ini(Null)  red(red)  green(green)  yellow(yellow)  Five(5)  Ten(10)]
+Controller 1 PlaceList [r1r2r3r4(Null)  g1r2r3r4(Null)  y1r2r3r4(Null)  r1g2r3r4(Null)  r1y2r3r4(Null)  r1r2g3r4(Null)  r1r2y3r4(Null)  r1r2r3g4(Null)  r1r2r3y4(Null)  OP1(localhost-1080-P_tl1)  OP2(localhost-1080-P_tl2)  OP3(localhost-1080-P_tl3)  OP4(localhost-1080-P_tl4)  in1(Null)  in2(Null)  in3(Null)  in4(Null)]
+Controller 1 ExecutionList [t1 Temp Marking [r1r2r3r4(signal)]]
+[iniT conditions are false]0[t2 conditions are false]10[t3 conditions are false]5[t4 conditions are false]5[t5 conditions are false]5[t6 conditions are false]5[t7 conditions are false]5[t8 conditions are false]5[t9 conditions are false]1
+Controller 1 ConstantPlaceList [ini(Null)  red(red)  green(green)  yellow(yellow)  Five(5)  Ten(10)]
+Controller 1 PlaceList [r1r2r3r4(Null)  g1r2r3r4(Null)  y1r2r3r4(Null)  r1g2r3r4(Null)  r1y2r3r4(Null)  r1r2g3r4(Null)  r1r2y3r4(Null)  r1r2r3g4(Null)  r1r2r3y4(Null)  OP1(localhost-1080-P_tl1)  OP2(localhost-1080-P_tl2)  OP3(localhost-1080-P_tl3)  OP4(localhost-1080-P_tl4)  in1(Null)  in2(Null)  in3(Null)  in4(Null)]
+Controller 1 ExecutionList [t1 Temp Marking [r1r2r3r4(signal)]]
+[iniT conditions are false]0[t2 conditions are false]10[t3 conditions are false]5[t4 conditions are false]5[t5 conditions are false]5[t6 conditions are false]5[t7 conditions are false]5[t8 conditions are false]5[t9 conditions are false]1
+Controller 1 ConstantPlaceList [ini(Null)  red(red)  green(green)  yellow(yellow)  Five(5)  Ten(10)]
+Controller 1 PlaceList [r1r2r3r4(Null)  g1r2r3r4(Null)  y1r2r3r4(Null)  r1g2r3r4(Null)  r1y2r3r4(Null)  r1r2g3r4(Null)  r1r2y3r4(Null)  r1r2r3g4(Null)  r1r2r3y4(Null)  OP1(localhost-1080-P_tl1)  OP2(localhost-1080-P_tl2)  OP3(localhost-1080-P_tl3)  OP4(localhost-1080-P_tl4)  in1(Null)  in2(Null)  in3(Null)  in4(Null)]
+Controller 1 ExecutionList [t1 Temp Marking [r1r2r3r4(signal)]]
+[iniT conditions are false]0[t2 conditions are false]10[t3 conditions are false]5[t4 conditions are false]5[t5 conditions are false]5[t6 conditions are false]5[t7 conditions are false]5[t8 conditions are false]5[t9 conditions are false]1
+Controller 1 ConstantPlaceList [ini(Null)  red(red)  green(green)  yellow(yellow)  Five(5)  Ten(10)]
+Controller 1 PlaceList [r1r2r3r4(Null)  g1r2r3r4(Null)  y1r2r3r4(Null)  r1g2r3r4(Null)  r1y2r3r4(Null)  r1r2g3r4(Null)  r1r2y3r4(Null)  r1r2r3g4(Null)  r1r2r3y4(Null)  OP1(localhost-1080-P_tl1)  OP2(localhost-1080-P_tl2)  OP3(localhost-1080-P_tl3)  OP4(localhost-1080-P_tl4)  in1(Null)  in2(Null)  in3(Null)  in4(Null)]
+Controller 1 ExecutionList [t1 Temp Marking [r1r2r3r4(signal)]]
+[iniT conditions are false]0[t2 conditions are false]10[t3 conditions are false]5[t4 conditions are false]5[t5 conditions are false]5[t6 conditions are false]5[t7 conditions are false]5[t8 conditions are false]5[t9 conditions are false]1
+Controller 1 ConstantPlaceList [ini(Null)  red(red)  green(green)  yellow(yellow)  Five(5)  Ten(10)]
+Controller 1 PlaceList [r1r2r3r4(Null)  g1r2r3r4(Null)  y1r2r3r4(Null)  r1g2r3r4(Null)  r1y2r3r4(Null)  r1r2g3r4(Null)  r1r2y3r4(Null)  r1r2r3g4(Null)  r1r2r3y4(Null)  OP1(localhost-1080-P_tl1)  OP2(localhost-1080-P_tl2)  OP3(localhost-1080-P_tl3)  OP4(localhost-1080-P_tl4)  in1(Null)  in2(Null)  in3(Null)  in4(Null)]
+Controller 1 ExecutionList [t1 Temp Marking [r1r2r3r4(signal)]]
+[iniT conditions are false]0[t2 conditions are false]10[t3 conditions are false]5[t4 conditions are false]5[t5 conditions are false]5[t6 conditions are false]5[t7 conditions are false]5[t8 conditions are false]5[t9 conditions are false]1
+Controller 1 ConstantPlaceList [ini(Null)  red(red)  green(green)  yellow(yellow)  Five(5)  Ten(10)]
+Controller 1 PlaceList [r1r2r3r4(signal)  g1r2r3r4(Null)  y1r2r3r4(Null)  r1g2r3r4(Null)  r1y2r3r4(Null)  r1r2g3r4(Null)  r1r2y3r4(Null)  r1r2r3g4(Null)  r1r2r3y4(Null)  OP1(localhost-1080-P_tl1)  OP2(localhost-1080-P_tl2)  OP3(localhost-1080-P_tl3)  OP4(localhost-1080-P_tl4)  in1(Null)  in2(Null)  in3(Null)  in4(Null)]
+Controller 1 ExecutionList [t9 Temp Marking [r1r2r3y4(signal)]]
+[iniT conditions are false]0[t1 conditions are false]5[t2 conditions are false]10[t3 conditions are false]5[t4 conditions are false]5[t5 conditions are false]5[t6 conditions are false]5[t7 conditions are false]5[t8 conditions are false]5
+Controller 1 ConstantPlaceList [ini(Null)  red(red)  green(green)  yellow(yellow)  Five(5)  Ten(10)]
+Controller 1 PlaceList [r1r2r3r4(Null)  g1r2r3r4(Null)  y1r2r3r4(Null)  r1g2r3r4(Null)  r1y2r3r4(Null)  r1r2g3r4(Null)  r1r2y3r4(Null)  r1r2r3g4(Null)  r1r2r3y4(Null)  OP1(localhost-1080-P_tl1)  OP2(localhost-1080-P_tl2)  OP3(localhost-1080-P_tl3)  OP4(localhost-1080-P_tl4)  in1(Null)  in2(Null)  in3(Null)  in4(Null)]
+Controller 1 ExecutionList [t9 Temp Marking [r1r2r3y4(signal)]]
+[iniT conditions are false]0[t1 conditions are false]5[t2 conditions are false]10[t3 conditions are false]5[t4 conditions are false]5[t5 conditions are false]5[t6 conditions are false]5[t7 conditions are false]5[t8 conditions are false]5
+Controller 1 ConstantPlaceList [ini(Null)  red(red)  green(green)  yellow(yellow)  Five(5)  Ten(10)]
+Controller 1 PlaceList [r1r2r3r4(Null)  g1r2r3r4(Null)  y1r2r3r4(Null)  r1g2r3r4(Null)  r1y2r3r4(Null)  r1r2g3r4(Null)  r1r2y3r4(Null)  r1r2r3g4(Null)  r1r2r3y4(signal)  OP1(localhost-1080-P_tl1)  OP2(localhost-1080-P_tl2)  OP3(localhost-1080-P_tl3)  OP4(localhost-1080-P_tl4)  in1(Null)  in2(Null)  in3(Null)  in4(Null)]
+Controller 1 ExecutionList [t8 Temp Marking [r1r2r3g4(signal),in4(Null)]]
+[iniT conditions are false]0[t1 conditions are false]5[t2 conditions are false]10[t3 conditions are false]5[t4 conditions are false]5[t5 conditions are false]5[t6 conditions are false]5[t7 conditions are false]5[t9 conditions are false]1
+Controller 1 ConstantPlaceList [ini(Null)  red(red)  green(green)  yellow(yellow)  Five(5)  Ten(10)]
+Controller 1 PlaceList [r1r2r3r4(Null)  g1r2r3r4(Null)  y1r2r3r4(Null)  r1g2r3r4(Null)  r1y2r3r4(Null)  r1r2g3r4(Null)  r1r2y3r4(Null)  r1r2r3g4(Null)  r1r2r3y4(Null)  OP1(localhost-1080-P_tl1)  OP2(localhost-1080-P_tl2)  OP3(localhost-1080-P_tl3)  OP4(localhost-1080-P_tl4)  in1(Null)  in2(Null)  in3(Null)  in4(Null)]
+Controller 1 ExecutionList [t8 Temp Marking [r1r2r3g4(signal),in4(Null)]]
+[iniT conditions are false]0[t1 conditions are false]5[t2 conditions are false]10[t3 conditions are false]5[t4 conditions are false]5[t5 conditions are false]5[t6 conditions are false]5[t7 conditions are false]5[t9 conditions are false]1
+Controller 1 ConstantPlaceList [ini(Null)  red(red)  green(green)  yellow(yellow)  Five(5)  Ten(10)]
+Controller 1 PlaceList [r1r2r3r4(Null)  g1r2r3r4(Null)  y1r2r3r4(Null)  r1g2r3r4(Null)  r1y2r3r4(Null)  r1r2g3r4(Null)  r1r2y3r4(Null)  r1r2r3g4(Null)  r1r2r3y4(Null)  OP1(localhost-1080-P_tl1)  OP2(localhost-1080-P_tl2)  OP3(localhost-1080-P_tl3)  OP4(localhost-1080-P_tl4)  in1(Null)  in2(Null)  in3(Null)  in4(Null)]
+Controller 1 ExecutionList [t8 Temp Marking [r1r2r3g4(signal),in4(Null)]]
+[iniT conditions are false]0[t1 conditions are false]5[t2 conditions are false]10[t3 conditions are false]5[t4 conditions are false]5[t5 conditions are false]5[t6 conditions are false]5[t7 conditions are false]5[t9 conditions are false]1
+Controller 1 ConstantPlaceList [ini(Null)  red(red)  green(green)  yellow(yellow)  Five(5)  Ten(10)]
+Controller 1 PlaceList [r1r2r3r4(Null)  g1r2r3r4(Null)  y1r2r3r4(Null)  r1g2r3r4(Null)  r1y2r3r4(Null)  r1r2g3r4(Null)  r1r2y3r4(Null)  r1r2r3g4(Null)  r1r2r3y4(Null)  OP1(localhost-1080-P_tl1)  OP2(localhost-1080-P_tl2)  OP3(localhost-1080-P_tl3)  OP4(localhost-1080-P_tl4)  in1(Null)  in2(Null)  in3(Null)  in4(Null)]
+Controller 1 ExecutionList [t8 Temp Marking [r1r2r3g4(signal),in4(Null)]]
+[iniT conditions are false]0[t1 conditions are false]5[t2 conditions are false]10[t3 conditions are false]5[t4 conditions are false]5[t5 conditions are false]5[t6 conditions are false]5[t7 conditions are false]5[t9 conditions are false]1
+Controller 1 ConstantPlaceList [ini(Null)  red(red)  green(green)  yellow(yellow)  Five(5)  Ten(10)]
+Controller 1 PlaceList [r1r2r3r4(Null)  g1r2r3r4(Null)  y1r2r3r4(Null)  r1g2r3r4(Null)  r1y2r3r4(Null)  r1r2g3r4(Null)  r1r2y3r4(Null)  r1r2r3g4(Null)  r1r2r3y4(Null)  OP1(localhost-1080-P_tl1)  OP2(localhost-1080-P_tl2)  OP3(localhost-1080-P_tl3)  OP4(localhost-1080-P_tl4)  in1(Null)  in2(Null)  in3(Null)  in4(Null)]
+Controller 1 ExecutionList [t8 Temp Marking [r1r2r3g4(signal),in4(Null)]]
+[iniT conditions are false]0[t1 conditions are false]5[t2 conditions are false]10[t3 conditions are false]5[t4 conditions are false]5[t5 conditions are false]5[t6 conditions are false]5[t7 conditions are false]5[t9 conditions are false]1
+Controller 1 ConstantPlaceList [ini(Null)  red(red)  green(green)  yellow(yellow)  Five(5)  Ten(10)]
+Controller 1 PlaceList [r1r2r3r4(Null)  g1r2r3r4(Null)  y1r2r3r4(Null)  r1g2r3r4(Null)  r1y2r3r4(Null)  r1r2g3r4(Null)  r1r2y3r4(Null)  r1r2r3g4(Null)  r1r2r3y4(Null)  OP1(localhost-1080-P_tl1)  OP2(localhost-1080-P_tl2)  OP3(localhost-1080-P_tl3)  OP4(localhost-1080-P_tl4)  in1(Null)  in2(Null)  in3(Null)  in4(Null)]
+Controller 1 ExecutionList [t8 Temp Marking [r1r2r3g4(signal),in4(Null)]]
+[iniT conditions are false]0[t1 conditions are false]5[t2 conditions are false]10[t3 conditions are false]5[t4 conditions are false]5[t5 conditions are false]5[t6 conditions are false]5[t7 conditions are false]5[t9 conditions are false]1
+Controller 1 ConstantPlaceList [ini(Null)  red(red)  green(green)  yellow(yellow)  Five(5)  Ten(10)]
+Controller 1 PlaceList [r1r2r3r4(Null)  g1r2r3r4(Null)  y1r2r3r4(Null)  r1g2r3r4(Null)  r1y2r3r4(Null)  r1r2g3r4(Null)  r1r2y3r4(Null)  r1r2r3g4(signal)  r1r2r3y4(Null)  OP1(localhost-1080-P_tl1)  OP2(localhost-1080-P_tl2)  OP3(localhost-1080-P_tl3)  OP4(localhost-1080-P_tl4)  in1(Null)  in2(Null)  in3(Null)  in4(Null)]
+Controller 1 ExecutionList [t7 Temp Marking [r1r2y3r4(signal)]]
+[iniT conditions are false]0[t1 conditions are false]5[t2 conditions are false]10[t3 conditions are false]5[t4 conditions are false]5[t5 conditions are false]5[t6 conditions are false]5[t8 conditions are false]5[t9 conditions are false]1
+Controller 1 ConstantPlaceList [ini(Null)  red(red)  green(green)  yellow(yellow)  Five(5)  Ten(10)]
+Controller 1 PlaceList [r1r2r3r4(Null)  g1r2r3r4(Null)  y1r2r3r4(Null)  r1g2r3r4(Null)  r1y2r3r4(Null)  r1r2g3r4(Null)  r1r2y3r4(Null)  r1r2r3g4(Null)  r1r2r3y4(Null)  OP1(localhost-1080-P_tl1)  OP2(localhost-1080-P_tl2)  OP3(localhost-1080-P_tl3)  OP4(localhost-1080-P_tl4)  in1(Null)  in2(Null)  in3(Null)  in4(Null)]
+Controller 1 ExecutionList [t7 Temp Marking [r1r2y3r4(signal)]]
+[iniT conditions are false]0[t1 conditions are false]5[t2 conditions are false]10[t3 conditions are false]5[t4 conditions are false]5[t5 conditions are false]5[t6 conditions are false]5[t8 conditions are false]5[t9 conditions are false]1
+Controller 1 ConstantPlaceList [ini(Null)  red(red)  green(green)  yellow(yellow)  Five(5)  Ten(10)]
+Controller 1 PlaceList [r1r2r3r4(Null)  g1r2r3r4(Null)  y1r2r3r4(Null)  r1g2r3r4(Null)  r1y2r3r4(Null)  r1r2g3r4(Null)  r1r2y3r4(Null)  r1r2r3g4(Null)  r1r2r3y4(Null)  OP1(localhost-1080-P_tl1)  OP2(localhost-1080-P_tl2)  OP3(localhost-1080-P_tl3)  OP4(localhost-1080-P_tl4)  in1(Null)  in2(Null)  in3(Null)  in4(Null)]
+Controller 1 ExecutionList [t7 Temp Marking [r1r2y3r4(signal)]]
+[iniT conditions are false]0[t1 conditions are false]5[t2 conditions are false]10[t3 conditions are false]5[t4 conditions are false]5[t5 conditions are false]5[t6 conditions are false]5[t8 conditions are false]5[t9 conditions are false]1
+Controller 1 ConstantPlaceList [ini(Null)  red(red)  green(green)  yellow(yellow)  Five(5)  Ten(10)]
+Controller 1 PlaceList [r1r2r3r4(Null)  g1r2r3r4(Null)  y1r2r3r4(Null)  r1g2r3r4(Null)  r1y2r3r4(Null)  r1r2g3r4(Null)  r1r2y3r4(Null)  r1r2r3g4(Null)  r1r2r3y4(Null)  OP1(localhost-1080-P_tl1)  OP2(localhost-1080-P_tl2)  OP3(localhost-1080-P_tl3)  OP4(localhost-1080-P_tl4)  in1(Null)  in2(Null)  in3(Null)  in4(Null)]
+Controller 1 ExecutionList [t7 Temp Marking [r1r2y3r4(signal)]]
+[iniT conditions are false]0[t1 conditions are false]5[t2 conditions are false]10[t3 conditions are false]5[t4 conditions are false]5[t5 conditions are false]5[t6 conditions are false]5[t8 conditions are false]5[t9 conditions are false]1
+Controller 1 ConstantPlaceList [ini(Null)  red(red)  green(green)  yellow(yellow)  Five(5)  Ten(10)]
+Controller 1 PlaceList [r1r2r3r4(Null)  g1r2r3r4(Null)  y1r2r3r4(Null)  r1g2r3r4(Null)  r1y2r3r4(Null)  r1r2g3r4(Null)  r1r2y3r4(Null)  r1r2r3g4(Null)  r1r2r3y4(Null)  OP1(localhost-1080-P_tl1)  OP2(localhost-1080-P_tl2)  OP3(localhost-1080-P_tl3)  OP4(localhost-1080-P_tl4)  in1(Null)  in2(Null)  in3(Null)  in4(Null)]
+Controller 1 ExecutionList [t7 Temp Marking [r1r2y3r4(signal)]]
+[iniT conditions are false]0[t1 conditions are false]5[t2 conditions are false]10[t3 conditions are false]5[t4 conditions are false]5[t5 conditions are false]5[t6 conditions are false]5[t8 conditions are false]5[t9 conditions are false]1
+Controller 1 ConstantPlaceList [ini(Null)  red(red)  green(green)  yellow(yellow)  Five(5)  Ten(10)]
+Controller 1 PlaceList [r1r2r3r4(Null)  g1r2r3r4(Null)  y1r2r3r4(Null)  r1g2r3r4(Null)  r1y2r3r4(Null)  r1r2g3r4(Null)  r1r2y3r4(Null)  r1r2r3g4(Null)  r1r2r3y4(Null)  OP1(localhost-1080-P_tl1)  OP2(localhost-1080-P_tl2)  OP3(localhost-1080-P_tl3)  OP4(localhost-1080-P_tl4)  in1(Null)  in2(Null)  in3(Null)  in4(Null)]
+Controller 1 ExecutionList [t7 Temp Marking [r1r2y3r4(signal)]]
+[iniT conditions are false]0[t1 conditions are false]5[t2 conditions are false]10[t3 conditions are false]5[t4 conditions are false]5[t5 conditions are false]5[t6 conditions are false]5[t8 conditions are false]5[t9 conditions are false]1
+Controller 1 ConstantPlaceList [ini(Null)  red(red)  green(green)  yellow(yellow)  Five(5)  Ten(10)]
+Controller 1 PlaceList [r1r2r3r4(Null)  g1r2r3r4(Null)  y1r2r3r4(Null)  r1g2r3r4(Null)  r1y2r3r4(Null)  r1r2g3r4(Null)  r1r2y3r4(signal)  r1r2r3g4(Null)  r1r2r3y4(Null)  OP1(localhost-1080-P_tl1)  OP2(localhost-1080-P_tl2)  OP3(localhost-1080-P_tl3)  OP4(localhost-1080-P_tl4)  in1(Null)  in2(Null)  in3(Null)  in4(Null)]
+Controller 1 ExecutionList [t6 Temp Marking [r1r2g3r4(signal),in3(Null)]]
+[iniT conditions are false]0[t1 conditions are false]5[t2 conditions are false]10[t3 conditions are false]5[t4 conditions are false]5[t5 conditions are false]5[t7 conditions are false]5[t8 conditions are false]5[t9 conditions are false]1
+Controller 1 ConstantPlaceList [ini(Null)  red(red)  green(green)  yellow(yellow)  Five(5)  Ten(10)]
+Controller 1 PlaceList [r1r2r3r4(Null)  g1r2r3r4(Null)  y1r2r3r4(Null)  r1g2r3r4(Null)  r1y2r3r4(Null)  r1r2g3r4(Null)  r1r2y3r4(Null)  r1r2r3g4(Null)  r1r2r3y4(Null)  OP1(localhost-1080-P_tl1)  OP2(localhost-1080-P_tl2)  OP3(localhost-1080-P_tl3)  OP4(localhost-1080-P_tl4)  in1(Null)  in2(Null)  in3(Null)  in4(Null)]
+Controller 1 ExecutionList [t6 Temp Marking [r1r2g3r4(signal),in3(Null)]]
+[iniT conditions are false]0[t1 conditions are false]5[t2 conditions are false]10[t3 conditions are false]5[t4 conditions are false]5[t5 conditions are false]5[t7 conditions are false]5[t8 conditions are false]5[t9 conditions are false]1
+Controller 1 ConstantPlaceList [ini(Null)  red(red)  green(green)  yellow(yellow)  Five(5)  Ten(10)]
+Controller 1 PlaceList [r1r2r3r4(Null)  g1r2r3r4(Null)  y1r2r3r4(Null)  r1g2r3r4(Null)  r1y2r3r4(Null)  r1r2g3r4(Null)  r1r2y3r4(Null)  r1r2r3g4(Null)  r1r2r3y4(Null)  OP1(localhost-1080-P_tl1)  OP2(localhost-1080-P_tl2)  OP3(localhost-1080-P_tl3)  OP4(localhost-1080-P_tl4)  in1(Null)  in2(Null)  in3(Null)  in4(Null)]
+Controller 1 ExecutionList [t6 Temp Marking [r1r2g3r4(signal),in3(Null)]]
+[iniT conditions are false]0[t1 conditions are false]5[t2 conditions are false]10[t3 conditions are false]5[t4 conditions are false]5[t5 conditions are false]5[t7 conditions are false]5[t8 conditions are false]5[t9 conditions are false]1
+Controller 1 ConstantPlaceList [ini(Null)  red(red)  green(green)  yellow(yellow)  Five(5)  Ten(10)]
+Controller 1 PlaceList [r1r2r3r4(Null)  g1r2r3r4(Null)  y1r2r3r4(Null)  r1g2r3r4(Null)  r1y2r3r4(Null)  r1r2g3r4(Null)  r1r2y3r4(Null)  r1r2r3g4(Null)  r1r2r3y4(Null)  OP1(localhost-1080-P_tl1)  OP2(localhost-1080-P_tl2)  OP3(localhost-1080-P_tl3)  OP4(localhost-1080-P_tl4)  in1(Null)  in2(Null)  in3(Null)  in4(Null)]
+Controller 1 ExecutionList [t6 Temp Marking [r1r2g3r4(signal),in3(Null)]]
+[iniT conditions are false]0[t1 conditions are false]5[t2 conditions are false]10[t3 conditions are false]5[t4 conditions are false]5[t5 conditions are false]5[t7 conditions are false]5[t8 conditions are false]5[t9 conditions are false]1
+Controller 1 ConstantPlaceList [ini(Null)  red(red)  green(green)  yellow(yellow)  Five(5)  Ten(10)]
+Controller 1 PlaceList [r1r2r3r4(Null)  g1r2r3r4(Null)  y1r2r3r4(Null)  r1g2r3r4(Null)  r1y2r3r4(Null)  r1r2g3r4(Null)  r1r2y3r4(Null)  r1r2r3g4(Null)  r1r2r3y4(Null)  OP1(localhost-1080-P_tl1)  OP2(localhost-1080-P_tl2)  OP3(localhost-1080-P_tl3)  OP4(localhost-1080-P_tl4)  in1(Null)  in2(Null)  in3(Null)  in4(Null)]
+Controller 1 ExecutionList [t6 Temp Marking [r1r2g3r4(signal),in3(Null)]]
+[iniT conditions are false]0[t1 conditions are false]5[t2 conditions are false]10[t3 conditions are false]5[t4 conditions are false]5[t5 conditions are false]5[t7 conditions are false]5[t8 conditions are false]5[t9 conditions are false]1
+Controller 1 ConstantPlaceList [ini(Null)  red(red)  green(green)  yellow(yellow)  Five(5)  Ten(10)]
+Controller 1 PlaceList [r1r2r3r4(Null)  g1r2r3r4(Null)  y1r2r3r4(Null)  r1g2r3r4(Null)  r1y2r3r4(Null)  r1r2g3r4(Null)  r1r2y3r4(Null)  r1r2r3g4(Null)  r1r2r3y4(Null)  OP1(localhost-1080-P_tl1)  OP2(localhost-1080-P_tl2)  OP3(localhost-1080-P_tl3)  OP4(localhost-1080-P_tl4)  in1(Null)  in2(Null)  in3(Null)  in4(Null)]
+Controller 1 ExecutionList [t6 Temp Marking [r1r2g3r4(signal),in3(Null)]]
+[iniT conditions are false]0[t1 conditions are false]5[t2 conditions are false]10[t3 conditions are false]5[t4 conditions are false]5[t5 conditions are false]5[t7 conditions are false]5[t8 conditions are false]5[t9 conditions are false]1
+Controller 1 ConstantPlaceList [ini(Null)  red(red)  green(green)  yellow(yellow)  Five(5)  Ten(10)]
+Controller 1 PlaceList [r1r2r3r4(Null)  g1r2r3r4(Null)  y1r2r3r4(Null)  r1g2r3r4(Null)  r1y2r3r4(Null)  r1r2g3r4(signal)  r1r2y3r4(Null)  r1r2r3g4(Null)  r1r2r3y4(Null)  OP1(localhost-1080-P_tl1)  OP2(localhost-1080-P_tl2)  OP3(localhost-1080-P_tl3)  OP4(localhost-1080-P_tl4)  in1(Null)  in2(Null)  in3(Null)  in4(Null)]
+Controller 1 ExecutionList [t5 Temp Marking [r1y2r3r4(signal)]]
+[iniT conditions are false]0[t1 conditions are false]5[t2 conditions are false]10[t3 conditions are false]5[t4 conditions are false]5[t6 conditions are false]5[t7 conditions are false]5[t8 conditions are false]5[t9 conditions are false]1
+Controller 1 ConstantPlaceList [ini(Null)  red(red)  green(green)  yellow(yellow)  Five(5)  Ten(10)]
+Controller 1 PlaceList [r1r2r3r4(Null)  g1r2r3r4(Null)  y1r2r3r4(Null)  r1g2r3r4(Null)  r1y2r3r4(Null)  r1r2g3r4(Null)  r1r2y3r4(Null)  r1r2r3g4(Null)  r1r2r3y4(Null)  OP1(localhost-1080-P_tl1)  OP2(localhost-1080-P_tl2)  OP3(localhost-1080-P_tl3)  OP4(localhost-1080-P_tl4)  in1(Null)  in2(Null)  in3(Null)  in4(Null)]
+Controller 1 ExecutionList [t5 Temp Marking [r1y2r3r4(signal)]]
+[iniT conditions are false]0[t1 conditions are false]5[t2 conditions are false]10[t3 conditions are false]5[t4 conditions are false]5[t6 conditions are false]5[t7 conditions are false]5[t8 conditions are false]5[t9 conditions are false]1
+Controller 1 ConstantPlaceList [ini(Null)  red(red)  green(green)  yellow(yellow)  Five(5)  Ten(10)]
+Controller 1 PlaceList [r1r2r3r4(Null)  g1r2r3r4(Null)  y1r2r3r4(Null)  r1g2r3r4(Null)  r1y2r3r4(Null)  r1r2g3r4(Null)  r1r2y3r4(Null)  r1r2r3g4(Null)  r1r2r3y4(Null)  OP1(localhost-1080-P_tl1)  OP2(localhost-1080-P_tl2)  OP3(localhost-1080-P_tl3)  OP4(localhost-1080-P_tl4)  in1(Null)  in2(Null)  in3(Null)  in4(Null)]
+Controller 1 ExecutionList [t5 Temp Marking [r1y2r3r4(signal)]]
+[iniT conditions are false]0[t1 conditions are false]5[t2 conditions are false]10[t3 conditions are false]5[t4 conditions are false]5[t6 conditions are false]5[t7 conditions are false]5[t8 conditions are false]5[t9 conditions are false]1
+Controller 1 ConstantPlaceList [ini(Null)  red(red)  green(green)  yellow(yellow)  Five(5)  Ten(10)]
+Controller 1 PlaceList [r1r2r3r4(Null)  g1r2r3r4(Null)  y1r2r3r4(Null)  r1g2r3r4(Null)  r1y2r3r4(Null)  r1r2g3r4(Null)  r1r2y3r4(Null)  r1r2r3g4(Null)  r1r2r3y4(Null)  OP1(localhost-1080-P_tl1)  OP2(localhost-1080-P_tl2)  OP3(localhost-1080-P_tl3)  OP4(localhost-1080-P_tl4)  in1(Null)  in2(Null)  in3(Null)  in4(Null)]
+Controller 1 ExecutionList [t5 Temp Marking [r1y2r3r4(signal)]]
+[iniT conditions are false]0[t1 conditions are false]5[t2 conditions are false]10[t3 conditions are false]5[t4 conditions are false]5[t6 conditions are false]5[t7 conditions are false]5[t8 conditions are false]5[t9 conditions are false]1
+Controller 1 ConstantPlaceList [ini(Null)  red(red)  green(green)  yellow(yellow)  Five(5)  Ten(10)]
+Controller 1 PlaceList [r1r2r3r4(Null)  g1r2r3r4(Null)  y1r2r3r4(Null)  r1g2r3r4(Null)  r1y2r3r4(Null)  r1r2g3r4(Null)  r1r2y3r4(Null)  r1r2r3g4(Null)  r1r2r3y4(Null)  OP1(localhost-1080-P_tl1)  OP2(localhost-1080-P_tl2)  OP3(localhost-1080-P_tl3)  OP4(localhost-1080-P_tl4)  in1(Null)  in2(Null)  in3(Null)  in4(Null)]
+Controller 1 ExecutionList [t5 Temp Marking [r1y2r3r4(signal)]]
+[iniT conditions are false]0[t1 conditions are false]5[t2 conditions are false]10[t3 conditions are false]5[t4 conditions are false]5[t6 conditions are false]5[t7 conditions are false]5[t8 conditions are false]5[t9 conditions are false]1
+Controller 1 ConstantPlaceList [ini(Null)  red(red)  green(green)  yellow(yellow)  Five(5)  Ten(10)]
+Controller 1 PlaceList [r1r2r3r4(Null)  g1r2r3r4(Null)  y1r2r3r4(Null)  r1g2r3r4(Null)  r1y2r3r4(Null)  r1r2g3r4(Null)  r1r2y3r4(Null)  r1r2r3g4(Null)  r1r2r3y4(Null)  OP1(localhost-1080-P_tl1)  OP2(localhost-1080-P_tl2)  OP3(localhost-1080-P_tl3)  OP4(localhost-1080-P_tl4)  in1(Null)  in2(Null)  in3(Null)  in4(Null)]
+Controller 1 ExecutionList [t5 Temp Marking [r1y2r3r4(signal)]]
+[iniT conditions are false]0[t1 conditions are false]5[t2 conditions are false]10[t3 conditions are false]5[t4 conditions are false]5[t6 conditions are false]5[t7 conditions are false]5[t8 conditions are false]5[t9 conditions are false]1
+Controller 1 ConstantPlaceList [ini(Null)  red(red)  green(green)  yellow(yellow)  Five(5)  Ten(10)]
+Controller 1 PlaceList [r1r2r3r4(Null)  g1r2r3r4(Null)  y1r2r3r4(Null)  r1g2r3r4(Null)  r1y2r3r4(signal)  r1r2g3r4(Null)  r1r2y3r4(Null)  r1r2r3g4(Null)  r1r2r3y4(Null)  OP1(localhost-1080-P_tl1)  OP2(localhost-1080-P_tl2)  OP3(localhost-1080-P_tl3)  OP4(localhost-1080-P_tl4)  in1(Null)  in2(Null)  in3(Null)  in4(Null)]
+Controller 1 ExecutionList [t4 Temp Marking [r1g2r3r4(signal),in2(Null)]]
+[iniT conditions are false]0[t1 conditions are false]5[t2 conditions are false]10[t3 conditions are false]5[t5 conditions are false]5[t6 conditions are false]5[t7 conditions are false]5[t8 conditions are false]5[t9 conditions are false]1
+Controller 1 ConstantPlaceList [ini(Null)  red(red)  green(green)  yellow(yellow)  Five(5)  Ten(10)]
+Controller 1 PlaceList [r1r2r3r4(Null)  g1r2r3r4(Null)  y1r2r3r4(Null)  r1g2r3r4(Null)  r1y2r3r4(Null)  r1r2g3r4(Null)  r1r2y3r4(Null)  r1r2r3g4(Null)  r1r2r3y4(Null)  OP1(localhost-1080-P_tl1)  OP2(localhost-1080-P_tl2)  OP3(localhost-1080-P_tl3)  OP4(localhost-1080-P_tl4)  in1(Null)  in2(Null)  in3(Null)  in4(Null)]
+Controller 1 ExecutionList [t4 Temp Marking [r1g2r3r4(signal),in2(Null)]]
+[iniT conditions are false]0[t1 conditions are false]5[t2 conditions are false]10[t3 conditions are false]5[t5 conditions are false]5[t6 conditions are false]5[t7 conditions are false]5[t8 conditions are false]5[t9 conditions are false]1
+Controller 1 ConstantPlaceList [ini(Null)  red(red)  green(green)  yellow(yellow)  Five(5)  Ten(10)]
+Controller 1 PlaceList [r1r2r3r4(Null)  g1r2r3r4(Null)  y1r2r3r4(Null)  r1g2r3r4(Null)  r1y2r3r4(Null)  r1r2g3r4(Null)  r1r2y3r4(Null)  r1r2r3g4(Null)  r1r2r3y4(Null)  OP1(localhost-1080-P_tl1)  OP2(localhost-1080-P_tl2)  OP3(localhost-1080-P_tl3)  OP4(localhost-1080-P_tl4)  in1(Null)  in2(Null)  in3(Null)  in4(Null)]
+Controller 1 ExecutionList [t4 Temp Marking [r1g2r3r4(signal),in2(Null)]]
+[iniT conditions are false]0[t1 conditions are false]5[t2 conditions are false]10[t3 conditions are false]5[t5 conditions are false]5[t6 conditions are false]5[t7 conditions are false]5[t8 conditions are false]5[t9 conditions are false]1
+Controller 1 ConstantPlaceList [ini(Null)  red(red)  green(green)  yellow(yellow)  Five(5)  Ten(10)]
+Controller 1 PlaceList [r1r2r3r4(Null)  g1r2r3r4(Null)  y1r2r3r4(Null)  r1g2r3r4(Null)  r1y2r3r4(Null)  r1r2g3r4(Null)  r1r2y3r4(Null)  r1r2r3g4(Null)  r1r2r3y4(Null)  OP1(localhost-1080-P_tl1)  OP2(localhost-1080-P_tl2)  OP3(localhost-1080-P_tl3)  OP4(localhost-1080-P_tl4)  in1(Null)  in2(Null)  in3(Null)  in4(Null)]
+Controller 1 ExecutionList [t4 Temp Marking [r1g2r3r4(signal),in2(Null)]]
+[iniT conditions are false]0[t1 conditions are false]5[t2 conditions are false]10[t3 conditions are false]5[t5 conditions are false]5[t6 conditions are false]5[t7 conditions are false]5[t8 conditions are false]5[t9 conditions are false]1
+Controller 1 ConstantPlaceList [ini(Null)  red(red)  green(green)  yellow(yellow)  Five(5)  Ten(10)]
+Controller 1 PlaceList [r1r2r3r4(Null)  g1r2r3r4(Null)  y1r2r3r4(Null)  r1g2r3r4(Null)  r1y2r3r4(Null)  r1r2g3r4(Null)  r1r2y3r4(Null)  r1r2r3g4(Null)  r1r2r3y4(Null)  OP1(localhost-1080-P_tl1)  OP2(localhost-1080-P_tl2)  OP3(localhost-1080-P_tl3)  OP4(localhost-1080-P_tl4)  in1(Null)  in2(Null)  in3(Null)  in4(Null)]
+Controller 1 ExecutionList [t4 Temp Marking [r1g2r3r4(signal),in2(Null)]]
+[iniT conditions are false]0[t1 conditions are false]5[t2 conditions are false]10[t3 conditions are false]5[t5 conditions are false]5[t6 conditions are false]5[t7 conditions are false]5[t8 conditions are false]5[t9 conditions are false]1
+Controller 1 ConstantPlaceList [ini(Null)  red(red)  green(green)  yellow(yellow)  Five(5)  Ten(10)]
+Controller 1 PlaceList [r1r2r3r4(Null)  g1r2r3r4(Null)  y1r2r3r4(Null)  r1g2r3r4(Null)  r1y2r3r4(Null)  r1r2g3r4(Null)  r1r2y3r4(Null)  r1r2r3g4(Null)  r1r2r3y4(Null)  OP1(localhost-1080-P_tl1)  OP2(localhost-1080-P_tl2)  OP3(localhost-1080-P_tl3)  OP4(localhost-1080-P_tl4)  in1(Null)  in2(Null)  in3(Null)  in4(Null)]
+Controller 1 ExecutionList [t4 Temp Marking [r1g2r3r4(signal),in2(Null)]]
+[iniT conditions are false]0[t1 conditions are false]5[t2 conditions are false]10[t3 conditions are false]5[t5 conditions are false]5[t6 conditions are false]5[t7 conditions are false]5[t8 conditions are false]5[t9 conditions are false]1
+Controller 1 ConstantPlaceList [ini(Null)  red(red)  green(green)  yellow(yellow)  Five(5)  Ten(10)]
+Controller 1 PlaceList [r1r2r3r4(Null)  g1r2r3r4(Null)  y1r2r3r4(Null)  r1g2r3r4(signal)  r1y2r3r4(Null)  r1r2g3r4(Null)  r1r2y3r4(Null)  r1r2r3g4(Null)  r1r2r3y4(Null)  OP1(localhost-1080-P_tl1)  OP2(localhost-1080-P_tl2)  OP3(localhost-1080-P_tl3)  OP4(localhost-1080-P_tl4)  in1(Null)  in2(Null)  in3(Null)  in4(Null)]
+Controller 1 ExecutionList [t3 Temp Marking [y1r2r3r4(signal)]]
+[iniT conditions are false]0[t1 conditions are false]5[t2 conditions are false]10[t4 conditions are false]5[t5 conditions are false]5[t6 conditions are false]5[t7 conditions are false]5[t8 conditions are false]5[t9 conditions are false]1
+Controller 1 ConstantPlaceList [ini(Null)  red(red)  green(green)  yellow(yellow)  Five(5)  Ten(10)]
+Controller 1 PlaceList [r1r2r3r4(Null)  g1r2r3r4(Null)  y1r2r3r4(Null)  r1g2r3r4(Null)  r1y2r3r4(Null)  r1r2g3r4(Null)  r1r2y3r4(Null)  r1r2r3g4(Null)  r1r2r3y4(Null)  OP1(localhost-1080-P_tl1)  OP2(localhost-1080-P_tl2)  OP3(localhost-1080-P_tl3)  OP4(localhost-1080-P_tl4)  in1(Null)  in2(Null)  in3(Null)  in4(Null)]
+Controller 1 ExecutionList [t3 Temp Marking [y1r2r3r4(signal)]]
+[iniT conditions are false]0[t1 conditions are false]5[t2 conditions are false]10[t4 conditions are false]5[t5 conditions are false]5[t6 conditions are false]5[t7 conditions are false]5[t8 conditions are false]5[t9 conditions are false]1
+Controller 1 ConstantPlaceList [ini(Null)  red(red)  green(green)  yellow(yellow)  Five(5)  Ten(10)]
+Controller 1 PlaceList [r1r2r3r4(Null)  g1r2r3r4(Null)  y1r2r3r4(Null)  r1g2r3r4(Null)  r1y2r3r4(Null)  r1r2g3r4(Null)  r1r2y3r4(Null)  r1r2r3g4(Null)  r1r2r3y4(Null)  OP1(localhost-1080-P_tl1)  OP2(localhost-1080-P_tl2)  OP3(localhost-1080-P_tl3)  OP4(localhost-1080-P_tl4)  in1(Null)  in2(Null)  in3(Null)  in4(Null)]
+Controller 1 ExecutionList [t3 Temp Marking [y1r2r3r4(signal)]]
+[iniT conditions are false]0[t1 conditions are false]5[t2 conditions are false]10[t4 conditions are false]5[t5 conditions are false]5[t6 conditions are false]5[t7 conditions are false]5[t8 conditions are false]5[t9 conditions are false]1
+Controller 1 ConstantPlaceList [ini(Null)  red(red)  green(green)  yellow(yellow)  Five(5)  Ten(10)]
+Controller 1 PlaceList [r1r2r3r4(Null)  g1r2r3r4(Null)  y1r2r3r4(Null)  r1g2r3r4(Null)  r1y2r3r4(Null)  r1r2g3r4(Null)  r1r2y3r4(Null)  r1r2r3g4(Null)  r1r2r3y4(Null)  OP1(localhost-1080-P_tl1)  OP2(localhost-1080-P_tl2)  OP3(localhost-1080-P_tl3)  OP4(localhost-1080-P_tl4)  in1(Null)  in2(Null)  in3(Null)  in4(Null)]
+Controller 1 ExecutionList [t3 Temp Marking [y1r2r3r4(signal)]]
+[iniT conditions are false]0[t1 conditions are false]5[t2 conditions are false]10[t4 conditions are false]5[t5 conditions are false]5[t6 conditions are false]5[t7 conditions are false]5[t8 conditions are false]5[t9 conditions are false]1
+Controller 1 ConstantPlaceList [ini(Null)  red(red)  green(green)  yellow(yellow)  Five(5)  Ten(10)]
+Controller 1 PlaceList [r1r2r3r4(Null)  g1r2r3r4(Null)  y1r2r3r4(Null)  r1g2r3r4(Null)  r1y2r3r4(Null)  r1r2g3r4(Null)  r1r2y3r4(Null)  r1r2r3g4(Null)  r1r2r3y4(Null)  OP1(localhost-1080-P_tl1)  OP2(localhost-1080-P_tl2)  OP3(localhost-1080-P_tl3)  OP4(localhost-1080-P_tl4)  in1(Null)  in2(Null)  in3(Null)  in4(Null)]
+Controller 1 ExecutionList [t3 Temp Marking [y1r2r3r4(signal)]]
+[iniT conditions are false]0[t1 conditions are false]5[t2 conditions are false]10[t4 conditions are false]5[t5 conditions are false]5[t6 conditions are false]5[t7 conditions are false]5[t8 conditions are false]5[t9 conditions are false]1
+Controller 1 ConstantPlaceList [ini(Null)  red(red)  green(green)  yellow(yellow)  Five(5)  Ten(10)]
+Controller 1 PlaceList [r1r2r3r4(Null)  g1r2r3r4(Null)  y1r2r3r4(Null)  r1g2r3r4(Null)  r1y2r3r4(Null)  r1r2g3r4(Null)  r1r2y3r4(Null)  r1r2r3g4(Null)  r1r2r3y4(Null)  OP1(localhost-1080-P_tl1)  OP2(localhost-1080-P_tl2)  OP3(localhost-1080-P_tl3)  OP4(localhost-1080-P_tl4)  in1(Null)  in2(Null)  in3(Null)  in4(Null)]
+Controller 1 ExecutionList [t3 Temp Marking [y1r2r3r4(signal)]]
+[iniT conditions are false]0[t1 conditions are false]5[t2 conditions are false]10[t4 conditions are false]5[t5 conditions are false]5[t6 conditions are false]5[t7 conditions are false]5[t8 conditions are false]5[t9 conditions are false]1
+Controller 1 ConstantPlaceList [ini(Null)  red(red)  green(green)  yellow(yellow)  Five(5)  Ten(10)]
+Controller 1 PlaceList [r1r2r3r4(Null)  g1r2r3r4(Null)  y1r2r3r4(signal)  r1g2r3r4(Null)  r1y2r3r4(Null)  r1r2g3r4(Null)  r1r2y3r4(Null)  r1r2r3g4(Null)  r1r2r3y4(Null)  OP1(localhost-1080-P_tl1)  OP2(localhost-1080-P_tl2)  OP3(localhost-1080-P_tl3)  OP4(localhost-1080-P_tl4)  in1(Null)  in2(Null)  in3(Null)  in4(Null)]
+Controller 1 ExecutionList [t2 Temp Marking [g1r2r3r4(signal),in1(full)]]
+[iniT conditions are false]0[t1 conditions are false]5[t3 conditions are false]5[t4 conditions are false]5[t5 conditions are false]5[t6 conditions are false]5[t7 conditions are false]5[t8 conditions are false]5[t9 conditions are false]1
+Controller 1 ConstantPlaceList [ini(Null)  red(red)  green(green)  yellow(yellow)  Five(5)  Ten(10)]
+Controller 1 PlaceList [r1r2r3r4(Null)  g1r2r3r4(Null)  y1r2r3r4(Null)  r1g2r3r4(Null)  r1y2r3r4(Null)  r1r2g3r4(Null)  r1r2y3r4(Null)  r1r2r3g4(Null)  r1r2r3y4(Null)  OP1(localhost-1080-P_tl1)  OP2(localhost-1080-P_tl2)  OP3(localhost-1080-P_tl3)  OP4(localhost-1080-P_tl4)  in1(Null)  in2(Null)  in3(Null)  in4(Null)]
+Controller 1 ExecutionList [t2 Temp Marking [g1r2r3r4(signal),in1(full)]]
+[iniT conditions are false]0[t1 conditions are false]5[t3 conditions are false]5[t4 conditions are false]5[t5 conditions are false]5[t6 conditions are false]5[t7 conditions are false]5[t8 conditions are false]5[t9 conditions are false]1
+Controller 1 ConstantPlaceList [ini(Null)  red(red)  green(green)  yellow(yellow)  Five(5)  Ten(10)]
+Controller 1 PlaceList [r1r2r3r4(Null)  g1r2r3r4(Null)  y1r2r3r4(Null)  r1g2r3r4(Null)  r1y2r3r4(Null)  r1r2g3r4(Null)  r1r2y3r4(Null)  r1r2r3g4(Null)  r1r2r3y4(Null)  OP1(localhost-1080-P_tl1)  OP2(localhost-1080-P_tl2)  OP3(localhost-1080-P_tl3)  OP4(localhost-1080-P_tl4)  in1(Null)  in2(Null)  in3(Null)  in4(Null)]
+Controller 1 ExecutionList [t2 Temp Marking [g1r2r3r4(signal),in1(full)]]
+[iniT conditions are false]0[t1 conditions are false]5[t3 conditions are false]5[t4 conditions are false]5[t5 conditions are false]5[t6 conditions are false]5[t7 conditions are false]5[t8 conditions are false]5[t9 conditions are false]1
+Controller 1 ConstantPlaceList [ini(Null)  red(red)  green(green)  yellow(yellow)  Five(5)  Ten(10)]
+Controller 1 PlaceList [r1r2r3r4(Null)  g1r2r3r4(Null)  y1r2r3r4(Null)  r1g2r3r4(Null)  r1y2r3r4(Null)  r1r2g3r4(Null)  r1r2y3r4(Null)  r1r2r3g4(Null)  r1r2r3y4(Null)  OP1(localhost-1080-P_tl1)  OP2(localhost-1080-P_tl2)  OP3(localhost-1080-P_tl3)  OP4(localhost-1080-P_tl4)  in1(Null)  in2(Null)  in3(Null)  in4(Null)]
+Controller 1 ExecutionList [t2 Temp Marking [g1r2r3r4(signal),in1(full)]]
+[iniT conditions are false]0[t1 conditions are false]5[t3 conditions are false]5[t4 conditions are false]5[t5 conditions are false]5[t6 conditions are false]5[t7 conditions are false]5[t8 conditions are false]5[t9 conditions are false]1
+Controller 1 ConstantPlaceList [ini(Null)  red(red)  green(green)  yellow(yellow)  Five(5)  Ten(10)]
+Controller 1 PlaceList [r1r2r3r4(Null)  g1r2r3r4(Null)  y1r2r3r4(Null)  r1g2r3r4(Null)  r1y2r3r4(Null)  r1r2g3r4(Null)  r1r2y3r4(Null)  r1r2r3g4(Null)  r1r2r3y4(Null)  OP1(localhost-1080-P_tl1)  OP2(localhost-1080-P_tl2)  OP3(localhost-1080-P_tl3)  OP4(localhost-1080-P_tl4)  in1(Null)  in2(Null)  in3(Null)  in4(Null)]
+Controller 1 ExecutionList [t2 Temp Marking [g1r2r3r4(signal),in1(full)]]
+[iniT conditions are false]0[t1 conditions are false]5[t3 conditions are false]5[t4 conditions are false]5[t5 conditions are false]5[t6 conditions are false]5[t7 conditions are false]5[t8 conditions are false]5[t9 conditions are false]1
+Controller 1 ConstantPlaceList [ini(Null)  red(red)  green(green)  yellow(yellow)  Five(5)  Ten(10)]
+Controller 1 PlaceList [r1r2r3r4(Null)  g1r2r3r4(Null)  y1r2r3r4(Null)  r1g2r3r4(Null)  r1y2r3r4(Null)  r1r2g3r4(Null)  r1r2y3r4(Null)  r1r2r3g4(Null)  r1r2r3y4(Null)  OP1(localhost-1080-P_tl1)  OP2(localhost-1080-P_tl2)  OP3(localhost-1080-P_tl3)  OP4(localhost-1080-P_tl4)  in1(Null)  in2(Null)  in3(Null)  in4(Null)]
+Controller 1 ExecutionList [t2 Temp Marking [g1r2r3r4(signal),in1(full)]]
+[iniT conditions are false]0[t1 conditions are false]5[t3 conditions are false]5[t4 conditions are false]5[t5 conditions are false]5[t6 conditions are false]5[t7 conditions are false]5[t8 conditions are false]5[t9 conditions are false]1
+Controller 1 ConstantPlaceList [ini(Null)  red(red)  green(green)  yellow(yellow)  Five(5)  Ten(10)]
+Controller 1 PlaceList [r1r2r3r4(Null)  g1r2r3r4(signal)  y1r2r3r4(Null)  r1g2r3r4(Null)  r1y2r3r4(Null)  r1r2g3r4(Null)  r1r2y3r4(Null)  r1r2r3g4(Null)  r1r2r3y4(Null)  OP1(localhost-1080-P_tl1)  OP2(localhost-1080-P_tl2)  OP3(localhost-1080-P_tl3)  OP4(localhost-1080-P_tl4)  in1(full)  in2(Null)  in3(Null)  in4(Null)]
+$$$$$$$$$$$$$$$ I got an Input From NetWork for in1
+Controller 1 ExecutionList [t1 Temp Marking [r1r2r3r4(signal)]]
+[iniT conditions are false]0[t2 conditions are false]5[t3 conditions are false]5[t4 conditions are false]5[t5 conditions are false]5[t6 conditions are false]5[t7 conditions are false]5[t8 conditions are false]5[t9 conditions are false]1
+Controller 1 ConstantPlaceList [ini(Null)  red(red)  green(green)  yellow(yellow)  Five(5)  Ten(10)]
+Controller 1 PlaceList [r1r2r3r4(Null)  g1r2r3r4(Null)  y1r2r3r4(Null)  r1g2r3r4(Null)  r1y2r3r4(Null)  r1r2g3r4(Null)  r1r2y3r4(Null)  r1r2r3g4(Null)  r1r2r3y4(Null)  OP1(localhost-1080-P_tl1)  OP2(localhost-1080-P_tl2)  OP3(localhost-1080-P_tl3)  OP4(localhost-1080-P_tl4)  in1(full)  in2(Null)  in3(Null)  in4(Null)]
+$$$$$$$$$$$$$$$ I got an Input From NetWork for in1
+Controller 1 ExecutionList [t1 Temp Marking [r1r2r3r4(signal)]]
+[iniT conditions are false]0[t2 conditions are false]5[t3 conditions are false]5[t4 conditions are false]5[t5 conditions are false]5[t6 conditions are false]5[t7 conditions are false]5[t8 conditions are false]5[t9 conditions are false]1
+Controller 1 ConstantPlaceList [ini(Null)  red(red)  green(green)  yellow(yellow)  Five(5)  Ten(10)]
+Controller 1 PlaceList [r1r2r3r4(Null)  g1r2r3r4(Null)  y1r2r3r4(Null)  r1g2r3r4(Null)  r1y2r3r4(Null)  r1r2g3r4(Null)  r1r2y3r4(Null)  r1r2r3g4(Null)  r1r2r3y4(Null)  OP1(localhost-1080-P_tl1)  OP2(localhost-1080-P_tl2)  OP3(localhost-1080-P_tl3)  OP4(localhost-1080-P_tl4)  in1(full)  in2(Null)  in3(Null)  in4(Null)]
+$$$$$$$$$$$$$$$ I got an Input From NetWork for in1
+Controller 1 ExecutionList [t1 Temp Marking [r1r2r3r4(signal)]]
+[iniT conditions are false]0[t2 conditions are false]5[t3 conditions are false]5[t4 conditions are false]5[t5 conditions are false]5[t6 conditions are false]5[t7 conditions are false]5[t8 conditions are false]5[t9 conditions are false]1
+Controller 1 ConstantPlaceList [ini(Null)  red(red)  green(green)  yellow(yellow)  Five(5)  Ten(10)]
+Controller 1 PlaceList [r1r2r3r4(Null)  g1r2r3r4(Null)  y1r2r3r4(Null)  r1g2r3r4(Null)  r1y2r3r4(Null)  r1r2g3r4(Null)  r1r2y3r4(Null)  r1r2r3g4(Null)  r1r2r3y4(Null)  OP1(localhost-1080-P_tl1)  OP2(localhost-1080-P_tl2)  OP3(localhost-1080-P_tl3)  OP4(localhost-1080-P_tl4)  in1(full)  in2(Null)  in3(Null)  in4(Null)]
+$$$$$$$$$$$$$$$ I got an Input From NetWork for in1
+Controller 1 ExecutionList [t1 Temp Marking [r1r2r3r4(signal)]]
+[iniT conditions are false]0[t2 conditions are false]5[t3 conditions are false]5[t4 conditions are false]5[t5 conditions are false]5[t6 conditions are false]5[t7 conditions are false]5[t8 conditions are false]5[t9 conditions are false]1
+Controller 1 ConstantPlaceList [ini(Null)  red(red)  green(green)  yellow(yellow)  Five(5)  Ten(10)]
+Controller 1 PlaceList [r1r2r3r4(Null)  g1r2r3r4(Null)  y1r2r3r4(Null)  r1g2r3r4(Null)  r1y2r3r4(Null)  r1r2g3r4(Null)  r1r2y3r4(Null)  r1r2r3g4(Null)  r1r2r3y4(Null)  OP1(localhost-1080-P_tl1)  OP2(localhost-1080-P_tl2)  OP3(localhost-1080-P_tl3)  OP4(localhost-1080-P_tl4)  in1(full)  in2(Null)  in3(Null)  in4(Null)]
+$$$$$$$$$$$$$$$ I got an Input From NetWork for in1
+Controller 1 ExecutionList [t1 Temp Marking [r1r2r3r4(signal)]]
+[iniT conditions are false]0[t2 conditions are false]5[t3 conditions are false]5[t4 conditions are false]5[t5 conditions are false]5[t6 conditions are false]5[t7 conditions are false]5[t8 conditions are false]5[t9 conditions are false]1
+Controller 1 ConstantPlaceList [ini(Null)  red(red)  green(green)  yellow(yellow)  Five(5)  Ten(10)]
+Controller 1 PlaceList [r1r2r3r4(Null)  g1r2r3r4(Null)  y1r2r3r4(Null)  r1g2r3r4(Null)  r1y2r3r4(Null)  r1r2g3r4(Null)  r1r2y3r4(Null)  r1r2r3g4(Null)  r1r2r3y4(Null)  OP1(localhost-1080-P_tl1)  OP2(localhost-1080-P_tl2)  OP3(localhost-1080-P_tl3)  OP4(localhost-1080-P_tl4)  in1(full)  in2(Null)  in3(Null)  in4(Null)]
+$$$$$$$$$$$$$$$ I got an Input From NetWork for in1
+Controller 1 ExecutionList [iniT Temp Marking [],t1 Temp Marking [r1r2r3r4(signal)]]
+[t2 conditions are false]5[t3 conditions are false]5[t4 conditions are false]5[t5 conditions are false]5[t6 conditions are false]5[t7 conditions are false]5[t8 conditions are false]5[t9 conditions are false]1
+Controller 1 ConstantPlaceList [ini(red)  red(red)  green(green)  yellow(yellow)  Five(5)  Ten(10)]
+Controller 1 PlaceList [r1r2r3r4(signal)  g1r2r3r4(Null)  y1r2r3r4(Null)  r1g2r3r4(Null)  r1y2r3r4(Null)  r1r2g3r4(Null)  r1r2y3r4(Null)  r1r2r3g4(Null)  r1r2r3y4(Null)  OP1(localhost-1080-P_tl1)  OP2(localhost-1080-P_tl2)  OP3(localhost-1080-P_tl3)  OP4(localhost-1080-P_tl4)  in1(full)  in2(Null)  in3(Null)  in4(Null)]
+$$$$$$$$$$$$$$$ I got an Input From NetWork for in1
+Waiting For Commands over this port:1081
