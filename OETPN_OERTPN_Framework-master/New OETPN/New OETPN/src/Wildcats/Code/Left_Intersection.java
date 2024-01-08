@@ -1,6 +1,5 @@
 package Wildcats.Code;
 
-
 import Components.Activation;
 import Components.Condition;
 import Components.GuardMapping;
